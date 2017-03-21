@@ -20,7 +20,7 @@
 
 ### Key
 
-At some point an 0x0ACE-Key **will be required** for scripts to run and pages to load		
+At some point an 0x0ACE-Key **will be required** for scripts to run and pages to load<br/>
 Obtaining such a key is covered in Stage 2
 
 ## Scripts

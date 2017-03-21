@@ -1,2 +1,4 @@
 - Automate creation of next stages (a template folder + whenever a folder is created it is added to the html file)
 - Add overview to README
+- Incorporate custom.css into index.html
+- Add build and run info on stage 4
