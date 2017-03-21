@@ -1,0 +1,20 @@
+.reveal code
+{
+    font-family: 'Source Code Pro';
+}
+
+/*.reveal blockquote
+{
+	width: 80%;
+}
+
+.reveal pre code
+{
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.reveal pre
+{
+	width: unset;
+}*/

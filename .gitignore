@@ -1,0 +1,6 @@
+# libs
+node_modules
+bower_components
+
+# in case this was important
+key.txt
