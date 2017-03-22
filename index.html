@@ -8,19 +8,36 @@
 
 		<link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
 		<link rel="stylesheet" href="bower_components/reveal.js/css/theme/moon.css">
-		<link rel="stylesheet" href="custom.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css">
+
+		<style>
+
+		.reveal code
+		{
+		    font-family: 'Source Code Pro';
+		}			
+
+		</style>
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section data-markdown="0/solution.md" data-separator="---" data-separator-vertical="--" data-separator-notes="^Note:" ></section>
-				<section data-markdown="1/solution.md" data-separator="---" data-separator-vertical="--" data-separator-notes="^Note:" ></section>
-				<section data-markdown="2/solution.md" data-separator="---" data-separator-vertical="--" data-separator-notes="^Note:" ></section>
-				<section data-markdown="3/solution.md" data-separator="---" data-separator-vertical="--" data-separator-notes="^Note:" ></section>
-				<section data-markdown="4/solution.md" data-separator="---" data-separator-vertical="--" data-separator-notes="^Note:" ></section>
+				<script>
+
+				const stages = 4;
+
+				for(i=0; i<=stages;i++)
+				{
+					document.write('<section data-markdown="' + i + '/solution.md" data-separator="\n\n\n\n" data-separator-vertical="\n\n\n" data-separator-notes="^Note:" ></section>');
+				}
+
+
+				</script>
+
+				<section data-markdown="end.md" data-separator="---" data-separator-vertical="--" data-separator-notes="^Note:" ></section>
+
 			</div>
 		</div>
 

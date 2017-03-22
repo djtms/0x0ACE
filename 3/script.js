@@ -40,7 +40,7 @@ http.get("http://5.9.247.121/d34dc0d3")
     // extract validation info
     const _verificationCode = $('input[name="verification"]').val();
 
-    // iterate over array to get trim points
+    // iterate over array to get trimm points
     let i = 0;
 
     while (primesArray[i] < range.beg+1)i++;

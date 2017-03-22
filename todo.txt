@@ -1,4 +1,8 @@
-- Automate creation of next stages (a template folder + whenever a folder is created it is added to the html file)
 - Add overview to README
-- Incorporate custom.css into index.html
+
+- Wait 4 4
+- Analyze 4
+- Solve 4
 - Add build and run info on stage 4
+
+- Add a mention about Hackerspace in the presentation

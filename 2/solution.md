@@ -1,12 +1,12 @@
 ## Etap 2
 
----
+
 
 ### Kejs
 
 ![](2/img/intro.png)
 
----
+
 
 ### Dodawanie nagłówka
 
@@ -18,7 +18,7 @@
 
 ![](2/img/adding_rule.png)
 
----
+
 
 ### Rozwiązanie
 

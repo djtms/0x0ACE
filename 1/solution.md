@@ -1,28 +1,24 @@
 ## Etap 1
 
----
+
 
 ### Kejs
-
 ![](1/img/intro.png)
 
----
+
 
 ### Analiza
-
 ```==``` na końcu, więc base64
 
 ### Dekodowanie base64
-
 ![](1/img/google_base64.png)
 
---
 
 > http://codebeautify.org/base64-decode
 
 ![](1/img/decoded.png)
 
----
+
 
 ### Rozwiązanie
 

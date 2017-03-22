@@ -1,7 +1,6 @@
-# ```0x0ACE``` - Allgreed's Walkthrough
-
+# ```0x0ACE```
 ## Let the game begin
 
----
+
 
 ![](0/img/intro.png)
