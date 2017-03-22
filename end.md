@@ -5,8 +5,9 @@
 
 ### Z pomocą: Maciej Wierzbowski, Leszek
 
----
 
-# Pytania? ^^
+
+
+# Pytania?
 
 <!-- Some kind of mention of HS -->
