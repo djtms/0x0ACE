@@ -6,3 +6,5 @@
 - Add build and run info on stage 4
 
 - Add a mention about Hackerspace in the presentation
+
+- ??? Add a setup slide? ;)
